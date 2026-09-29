@@ -1,0 +1,13 @@
+{
+  "name": "ar-digital-creates-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "1.1.0",
+    "@vercel/blob": "2.8.0"
+  }
+}
